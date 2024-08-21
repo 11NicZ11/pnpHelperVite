@@ -10,7 +10,7 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/char1" element={<Main Score={20} Mod={5} />} />
+          <Route path="/char1" element={<Main />} />
         </Routes>
       </main>
     </Router>
