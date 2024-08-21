@@ -1,0 +1,16 @@
+.statbox{
+  text-align: center;
+  float: left;
+  display: inline;
+  border: 1px solid black;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: min-content;
+  max-height: max-content;
+  font-size: 10px;
+}
+
+.description{
+max-width: 300px;
+
+}

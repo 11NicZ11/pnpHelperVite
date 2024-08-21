@@ -17,6 +17,7 @@ const navbar = () => {
           </ul>
         </div>
       </nav>
+      <hr></hr>
     </header>
   );
 };
