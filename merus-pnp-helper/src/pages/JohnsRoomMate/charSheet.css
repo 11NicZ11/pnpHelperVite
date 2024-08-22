@@ -1,14 +1,10 @@
 .headInMain{
-  max-width: 100%;
+  
   max-height: min-content;
   margin-left: 5px;
   border: 1px solid black;
   display: inline-block;
 
-}
-.description{
-  max-height: max-content;
-  max-width: 45%;
 }
 .statbox{
   display: inline-block;
